@@ -2,7 +2,7 @@
 - 👀 I’m interested in earning money and having fun
 - 🌱 I’m currently learning how to escape from things
 - 💞️ I’m looking to collaborate on healthy lifestyle
-- 📫 How to reach me? I don't actually have choices, right?
+- 📫 How to reach me? LinkedIn
 - 😄 Pronouns: I
 - ⚡ Fun fact: Just random
 
