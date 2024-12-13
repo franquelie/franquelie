@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @franquelie
-- 👀 I’m interested in earning money and having fun
-- 🌱 I’m currently learning how to escape from things
-- 💞️ I’m looking to collaborate on healthy lifestyle
+- 👀 I’m interested in developing an educational mobile game
+- 🌱 I’m currently learning Android Studio
 - 📫 How to reach me? LinkedIn
-- 😄 Pronouns: I
-- ⚡ Fun fact: Just random
+- ⚡ Fun fact: I am a loser
 
 <!---
 franquelie/franquelie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
