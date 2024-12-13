@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @franquelie
+- 👋 Hi, I’m Frank
 - 👀 I’m interested in developing an educational mobile game
 - 🌱 I’m currently learning Android Studio
 - 📫 How to reach me? LinkedIn
