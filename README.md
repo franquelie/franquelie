@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Frank
-- 👀 I’m interested in developing an educational mobile game
-- 🌱 I’m currently learning Android Studio
-- ⚡ Fun fact: I am a loser
+- 👀 I’m interested in developing an educational math game
+- 🌱 I’m currently learning Unity
+- ⚡ Fun fact: I am struggling to make a comeback
 
 <!---
 franquelie/franquelie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
